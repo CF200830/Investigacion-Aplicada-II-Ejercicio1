@@ -1,5 +1,5 @@
 
-Ejercicio 2. Creación de un servidor GraphQL con Laravel
+Ejercicio 1.  Desarrollo de una API REST con Laravel usando autenticación
 
 Docente: Ing. Guillermo Calderón
 
